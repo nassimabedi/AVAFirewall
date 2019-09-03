@@ -1,0 +1,8 @@
+    {
+    	"file_path": "/etc/iptables",
+    	"os": "ubuntu",
+        "type_firewall" : "iptable",
+        "default_table": "FILTER",
+        "default_chain" : "INPUT",
+        "ip_version": "IPV4"
+    }

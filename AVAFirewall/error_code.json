@@ -1,0 +1,27 @@
+{ "200": {"msg": "Filter set successfully",
+               "user_appear": 1,
+               "recommendation": ""},
+  "500": {"msg": "Action do not set successfully",
+       "user_appear": 1,
+       "recommendation": ""},
+  "501" : {"msg": "IP not valid",
+           "user_appear": 1,
+       "recommendation": ""},
+  "502": {"msg": "Port not valid",
+       "user_appear": 1,
+       "recommendation": ""},
+  "503": {"msg": "Table of IPtable have to set",
+       "user_appear": 1,
+       "recommendation": ""},
+  "504": {"msg": "Chain of IPtable have to set",
+       "user_appear": 1,
+       "recommendation": ""},
+  "505": {"msg": "Something have to set",
+       "user_appear": 1,
+       "recommendation": ""},
+  "506": {"msg": "Table name not correct",
+       "user_appear": 1,
+       "recommendation": "# * FILTER"
+
+        }
+}
